@@ -3,7 +3,7 @@
 Welcome to read [my blog](http://www.fangzhoucheng.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/fangzhoucheng).
 
 ## Background
-40 million Americans indicated that they used online dating services at least once in their life, which got my attention — Who are these people? How do they behave online? This is why I did this web scraping project during the study at NYC Data Science Academy.
+40 million Americans indicated that they used online dating services at least once in their life, which got my attention — Who are these people? How do they behave online? This is why I did this web scraping project during the study at [NYC Data Science Academy](http://nycdatascience.com/data-science-bootcamp/).
 
 ## Introduction  
 Demographics analysis (age and location distribution), along with some psychological analysis (who are pickier? who are lying?) are included in this project. Analysis is based on 2,054 straight male, 2,412 straight female, and 782 bisexual mixed gender profiles scraped from Okcupid.
